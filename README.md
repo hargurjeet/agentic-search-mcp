@@ -38,6 +38,10 @@ The application follows a modular architecture:
 4.  **Data Scraping Module:** Scrapes data from specified URLs based on user queries.
 5.  **LLM Integration Module:** Sends scraped data to the LLM for analysis and generates the final output.
 
+## End-to-End Request Flow
+
+![Agentic Search Application Workflow](agentic-search-workflow.png)
+
 ## Repository Structure
 
 ```
