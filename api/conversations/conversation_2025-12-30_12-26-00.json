@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Explain Chroma DB in LangChain"
+  },
+  {
+    "role": "assistant",
+    "content": "I'll help you find information about Chroma DB in LangChain by searching the documentation. Let me do that for you."
+  }
+]

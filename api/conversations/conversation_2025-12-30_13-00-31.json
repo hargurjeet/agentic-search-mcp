@@ -1,0 +1,24 @@
+[
+  {
+    "role": "user",
+    "content": "Explain Chroma DB in LangChain"
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "I'll help you learn about Chroma DB in LangChain. Let me search the documentation for information about this topic.",
+        "type": "text"
+      },
+      {
+        "id": "toolu_bdrk_01QiSwyKuwqdy3wmDapmrZwh",
+        "input": {
+          "query": "Chroma DB",
+          "library": "langchain"
+        },
+        "name": "get_docs",
+        "type": "tool_use"
+      }
+    ]
+  }
+]

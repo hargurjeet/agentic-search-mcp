@@ -1,0 +1,24 @@
+[
+  {
+    "role": "user",
+    "content": "how to integrate llama index with mcp"
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "It looks like you're asking about integrating LlamaIndex with \"MCP\". I'll need to search the documentation to find information about this integration. Let me do that for you.",
+        "type": "text"
+      },
+      {
+        "id": "toolu_bdrk_01EZzjgPgcovr3Vd1US69wfF",
+        "input": {
+          "library": "llama-index",
+          "query": "MCP integration"
+        },
+        "name": "get_docs",
+        "type": "tool_use"
+      }
+    ]
+  }
+]
